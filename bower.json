@@ -1,0 +1,6 @@
+{
+  "name": "dojo",
+  "dependencies": {
+    "qunit": "~1.14.0"
+  }
+}
